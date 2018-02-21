@@ -1,5 +1,5 @@
 {
-  "name": "component-lib",
+  "name": "test-component-lib",
   "version": "0.1.0",
   "description": "an example component library built with React!",
   "main": "build/index.js",
